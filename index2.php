@@ -109,6 +109,7 @@ $conn->close();
    </head>
    <body>
 <a href="login.php"><button style="width: 50px; height:50px;">Admin login</button></a>
+<a href="index.html"><button style="width: 50px; height:50px;">Home Page</button></a>
 
    </body>
 </html>
