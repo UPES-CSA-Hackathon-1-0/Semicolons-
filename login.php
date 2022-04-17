@@ -32,7 +32,7 @@
     <div class="backgroud">
     <div class="content">
 <h1>LOGIN </h1>
-<form action="index1.php" method="post">
+<form action="field.php" method="post">
 <div class="feild">
    <span class=" fa fa-user"></span>
    <input type="text" placeholder="username" name="username" required>
